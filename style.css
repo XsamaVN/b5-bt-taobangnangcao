@@ -1,0 +1,21 @@
+.sub {
+    color: #030202;
+    font-size: 8px;
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+    width: 600px;
+    height: 50px;
+}
+.t{
+    color: white;
+    background: orange;}
+.t7{
+    color: white;
+    background: blue;
+}
+.cn{
+    color: white;
+    background: red;
+}
